@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact",
+    "currentPage": "Contact.html",
     "name": "David J. Miller",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
     "cookiesAlert": ""
   },
   "pages": {
-    "Home": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -181,7 +181,7 @@
         }
       ]
     },
-    "Contact": {
+    "Contact.html": {
       "settings": {
         "title": "Contact",
         "meta_descr": "David J. Miller Contact"
