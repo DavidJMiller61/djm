@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact.html",
+    "currentPage": "index.html",
     "name": "David J. Miller",
     "theme": {
       "name": "mobirise3",
@@ -200,7 +200,7 @@
         }
       ]
     },
-    "Index.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
