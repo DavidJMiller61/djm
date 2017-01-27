@@ -430,11 +430,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -486,7 +486,6 @@ h6,
 #header1-1 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
-
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -501,11 +500,11 @@ h6,
   color: #ffffff;
 }
 #menu-7 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-7 .dropdown-item,
 #menu-7 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-7 .link:hover,
 #menu-7 .dropdown-item:hover,
@@ -554,6 +553,6 @@ h6,
 #menu-7 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-8 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
+#form1-e .form-control-label {
+  color: #232323;
 }
