@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact",
+    "currentPage": "Contact.html",
     "name": "David J. Miller",
     "theme": {
       "name": "mobirise3",
@@ -23,13 +23,13 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 15,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/davidmillerlivemusiclogo130x130-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
   },
   "pages": {
-    "Home": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -181,7 +181,7 @@
         }
       ]
     },
-    "Contact": {
+    "Contact.html": {
       "settings": {
         "title": "Contact",
         "meta_descr": "David J. Miller Contact",
