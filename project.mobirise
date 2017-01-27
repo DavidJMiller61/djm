@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -184,6 +184,19 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=0BzUZNe2lyqNkSGF2RUk1OHJNS1E\" data-toolbar=\"-mbrBtnMove\">David J. Miller Business Card</a> "
         }
       ]
     },
@@ -316,9 +329,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<a href=\"Home\" class=\"text-warning\">David J. Miller</a>",
-          "text": "David J. Miller is a multiple genre Harmonicist, Vocalist, Guitarist, Teacher, Promoter, Owner, and President of Jazz Unlimited of Greater Milwaukee. Dave Miller Band provides a vast repertoire from Chuck Berry to Wilson Pickett, and is sure to please any audience with expertise and professional musicianship. David Miller loves pouring out heart and soul into every performance and can fulfill any venue and genre. The Dave Miller Band provides a high energy eclectic repertoire from Rock to Blues. The Dave Miller Band provides a high energy eclectic repertoire from Rock to Jazz &amp; Blues. I can also supply a Trio, Duo or Solo act to fit your budget and venue. Here are some Blues samples of my Duo as well: Make it Happen or I’m Much Better Off without You The members of the Dave Miller Band are as follows: David J. Miller (harmonicist, vocalist, and guitarist), Bill Martin (lead guitarist), Hal Miller (bassist), and Andrew Wilson (drummer). The Dave Miller Band is all professional and highly experienced musicians, eager to satisfy the fans all the way to the venue owners. David Miller Live Music also Promotes Local and National Acts!<br><br>For inquiries; Email: David@DavidMiller.us, Call: (414) 375-9895 (Cell Protocol: (414) 375-9895), or Web: http://www.DavidMiller.us! Donate! Conference:www.Uberconference.com/DavidJMiller, Call: (857) 216-4789; PIN: 48197.<br><br>David J. Miller Business Card<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">David J. Miller Business Card</a> "
+          "title": "<a href=\"Index.html\" class=\"text-warning\">David J. Miller</a>",
+          "text": "<a href=\"Index.html\" class=\"text-white\">David J. Miller is a multiple genre Harmonicist, Vocalist, Guitarist, Teacher, Promoter, Owner, and President of Jazz Unlimited of Greater Milwaukee. Dave Miller Band provides a vast repertoire from Chuck Berry to Wilson Pickett, and is sure to please any audience with expertise and professional musicianship. David Miller loves pouring out heart and soul into every performance and can fulfill any venue and genre. The Dave Miller Band provides a high energy eclectic repertoire from Rock to Blues. The Dave Miller Band provides a high energy eclectic repertoire from Rock to Jazz &amp; Blues. I can also supply a Trio, Duo or Solo act to fit your budget and venue. Here are some Blues samples of my Duo as well: Make it Happen or I’m Much Better Off without You The members of the Dave Miller Band are as follows: David J. Miller (harmonicist, vocalist, and guitarist), Bill Martin (lead guitarist), Hal Miller (bassist), and Andrew Wilson (drummer). The Dave Miller Band is all professional and highly experienced musicians, eager to satisfy the fans all the way to the venue owners. David Miller Live Music also Promotes Local and National Acts!</a><br><br><a href=\"Index.html\" class=\"text-white\">For inquiries; Email: David@DavidMiller.us, Call: (414) 375-9895 (Cell Protocol: (414) 375-9895), or Web: http://www.DavidMiller.us! Donate! Conference:www.Uberconference.com/DavidJMiller, Call: (857) 216-4789; PIN: 48197.</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://drive.google.com/open?id=0BzUZNe2lyqNkSGF2RUk1OHJNS1E\" data-toolbar=\"-mbrBtnMove\">David J. Miller Business Card</a> "
         },
         {
           "_name": "footer1",
