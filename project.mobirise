@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "Home",
     "name": "David J. Miller",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
     "cookiesAlert": ""
   },
   "pages": {
-    "Home.html": {
+    "Home": {
       "settings": {
         "main": true,
         "title": "Home",
